@@ -23,7 +23,8 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
      }
 #romantico{
-    margin:5%;
+    float: left;
+    margin:0%;
     border-style:groove;
     border-radius: 30% 100px;
     background-color: blueviolet 50px;
